@@ -1,0 +1,12 @@
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\bin\Debug\OtobusBiletSatisi.exe.config
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\bin\Debug\OtobusBiletSatisi.exe
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\bin\Debug\OtobusBiletSatisi.pdb
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.csproj.AssemblyReference.cache
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.AnaForm.resources
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.Islem_Yap.resources
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.Properties.Resources.resources
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.csproj.GenerateResource.cache
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.csproj.CoreCompileInputs.cache
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.exe
+C:\Users\enesu\OneDrive\Masaüstü\OtobusBiletSatisi-main\OtobusBiletSatisi-main\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.pdb

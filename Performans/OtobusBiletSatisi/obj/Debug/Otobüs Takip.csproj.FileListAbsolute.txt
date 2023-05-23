@@ -1,0 +1,9 @@
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\Otobüs Takip.csproj.AssemblyReference.cache
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\Otobüs Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.AnaForm.resources
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.Islem_Yap.resources
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.Properties.Resources.resources
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\Otobüs Takip.csproj.GenerateResource.cache
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\Otobüs Takip.csproj.CoreCompileInputs.cache
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.exe
+C:\Users\enesu\OneDrive\Masaüstü\Performans\OtobusBiletSatisi\obj\Debug\OtobusBiletSatisi.pdb
